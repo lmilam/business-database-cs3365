@@ -8,6 +8,7 @@
 
 **Potential Users:** Any small office or business, local governments, non-profit organizations, simulation and academic purposes, open source community developers.
 
+
 **Use Cases:**
 
 **Use Case Name:** Query Field
@@ -27,6 +28,7 @@
 2. The client types those parameters in conjunction with the query command using the correct syntax. 
 3. The system uses the provided information to search the current working table for the desired data.
 4. Either the system identifies matching data and displays it to the client, or the syntax or provided information is incorrect and a descriptive error message is displayed.
+
 
 **Use Case Name:** Modify Field
 
@@ -50,6 +52,7 @@
 3. The system uses the provided information to search the current working table for the desired cell.
 4. Either the system identifies the desired cell and modifies or deletes its content as specified, or the syntax or parameters are incorrect and a descriptive error message is displayed.
 
+
 **Use Case Name:** Export CSV
 
 **Use Case Description:** Create a comma-separated values (CSV) file containing all the data listed in the current working table and present the file to the client.
@@ -66,6 +69,7 @@
 1. The client types the export command correctly.
 2. The system retrieves all the data from the current working table and formats it into a CSV file.
 3. The system presents the CSV file to the client in a plaintext format.
+
 
 **Use Case Name:** Change Current Working Table
 
